@@ -10,5 +10,4 @@ Includes:
   * Segmented images
 * Phenotype Predictions
   * Juptyer Notebook for testing accuracy of phenotype predictions based on genotypes within VCF
-  * VCF
-  * Phenotypes
+  * subsets of VCF with phenotypes
