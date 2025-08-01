@@ -10,3 +10,5 @@ Includes:
 * Phenotype Predictions
   * Juptyer Notebook for testing accuracy of phenotype predictions based on genotypes within VCF
   * subsets of VCF with phenotypes
+* Linkage Map
+  * Juptyer Notebook for calculating linkage map statistics
